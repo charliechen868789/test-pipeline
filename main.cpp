@@ -3,5 +3,6 @@ int main()
 {
     std::cout<<"This is example for check pipeline";
     std::cout<<"This is example for check pipeline";
+    std::cout<<"This is example for check pipeline";
     return 0;
 }
